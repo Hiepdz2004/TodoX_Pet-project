@@ -1,7 +1,1 @@
-Database Cluster2
 
-Username: lyhiep132@gmail.com
-Password: 1xcAD36DogJNdEGL
-
-connection string: 
-mongodb+srv://lyhiep132_db_user:1xcAD36DogJNdEGL@cluster2.2t6hhl9.mongodb.net/?appName=Cluster2
