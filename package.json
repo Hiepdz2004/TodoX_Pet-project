@@ -10,5 +10,25 @@
   },
   "devDependencies": {
     "@types/node": "^25.2.3"
-  }
+  },
+  "name": "todox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiepdz2004/TodoX_Pet-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hiepdz2004/TodoX_Pet-project/issues"
+  },
+  "homepage": "https://github.com/Hiepdz2004/TodoX_Pet-project#readme"
 }
